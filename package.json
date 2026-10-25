@@ -1,0 +1,19 @@
+{
+  "name": "eng-hazem-portfolio",
+  "version": "1.0.0",
+  "description": "الموقع الرسمي وبورتفوليو المهندس حازم ابوسعيفة - مهندس برمجيات وتطبيقات ويب وديسكتوب وأنظمة إدارة الأعمال",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "hazem-abu-saifa",
+    "software-engineer",
+    "erp",
+    "desktop",
+    "web"
+  ],
+  "author": "المهندس حازم ابوسعيفة",
+  "license": "ISC"
+}
