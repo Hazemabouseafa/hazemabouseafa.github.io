@@ -1,0 +1,30 @@
+{
+  "name": "hazem-my",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ENG HAZEM (حازم أبوسعيفة) — Software Engineer Portfolio",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.29",
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@types/three": "^0.175.0",
+    "typescript": "^5.8.0"
+  }
+}
